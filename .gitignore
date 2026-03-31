@@ -1,0 +1,9 @@
+.idea
+.venv
+.ai
+.claude
+dist
+tmp/
+__pycache__/
+*.pyc
+.pytest_cache/
